@@ -1,0 +1,16 @@
+body {
+    background-color: lightgrey;
+    color: blue;
+  }
+  
+  h1 {
+    text-align: center;
+    background-color: rgb(221, 208, 208);
+    color: rgb(145, 115, 115);
+  }
+  
+  div {
+    background-color: blue;
+    color: white;
+  }
+  
